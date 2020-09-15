@@ -7,7 +7,7 @@ FIFO is an abbreviation for first in, first out. It is a method for handling d
 
 LIFO is an abbreviation for Last in, first out is same as fist in, last out (FILO). It is a method for handling data structures where the last element is processed first and the first element is processed last.
 
-<img src=”https://tutorialspoint.dev/image/LIFO.jpg” alt=”LIFO”>
+![alt FIFO](https://tutorialspoint.dev/image/LIFO.jpg)
 
 | FIFO | LIFO |
 | ----------- | ----------- |
